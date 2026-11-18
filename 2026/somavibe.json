@@ -1,0 +1,14 @@
+{
+  "name": "SomaVibe: Calm & Sleep",
+  "url": "https://somavibe.app/en/black-friday/?utm_source=indie_goodies&utm_campaign=bf26",
+  "description": "Try Quick Calm on your iPhone: a free three-minute session with music and gentle vibration",
+  "category": "lifestyle",
+  "platforms": ["ios", "ipad"],
+  "deal": "SomaVibe+ Lifetime for $19.99 on the U.S. App Store (33% off, no code)",
+  "pricing": "lifetime",
+  "price": { "regular": 29.99, "sale": 19.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/dc/88/39dc8817-6067-f1a2-6e16-0f5141e4daae/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+}
