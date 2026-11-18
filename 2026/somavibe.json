@@ -4,7 +4,7 @@
   "description": "Try Quick Calm on your iPhone: a free three-minute session with music and gentle vibration",
   "category": "lifestyle",
   "platforms": ["ios", "ipad"],
-  "deal": "SomaVibe+ Lifetime for $19.99 on the U.S. App Store with code BW2026",
+  "deal": "SomaVibe+ Lifetime for $19.99 on the U.S. App Store only with code BW2026",
   "code": "BW2026",
   "pricing": "lifetime",
   "price": { "regular": 29.99, "sale": 19.99, "currency": "USD" },
